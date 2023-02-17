@@ -1,5 +1,5 @@
-# Full-Stack-Assesment
-A barebone CRUD GraphQL backend for managing merchants.
+# Full Stack Software Engineer Candidate Exercise by Ahmad Sofwan
+This is a barebone CRUD GraphQL backend for managing merchants.
 
 ## Table of Contents
 
